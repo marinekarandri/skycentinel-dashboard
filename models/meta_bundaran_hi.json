@@ -1,0 +1,30 @@
+{
+    "station_name": "Bundaran HI",
+    "n_lags": 14,
+    "mae": 10.850155905536646,
+    "rmse": 14.120194514751079,
+    "mape": 17.309237904974477,
+    "best_params": {
+        "n_estimators": 600,
+        "min_samples_split": 10,
+        "min_samples_leaf": 8,
+        "max_features": "sqrt",
+        "max_depth": null
+    },
+    "feature_names": [
+        "lag_1",
+        "lag_2",
+        "lag_3",
+        "lag_4",
+        "lag_5",
+        "lag_6",
+        "lag_7",
+        "lag_8",
+        "lag_9",
+        "lag_10",
+        "lag_11",
+        "lag_12",
+        "lag_13",
+        "lag_14"
+    ]
+}

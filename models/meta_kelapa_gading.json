@@ -1,0 +1,30 @@
+{
+    "station_name": "Kelapa Gading",
+    "n_lags": 14,
+    "mae": 11.51816510778064,
+    "rmse": 14.549807007806972,
+    "mape": 19.417800413174522,
+    "best_params": {
+        "n_estimators": 200,
+        "min_samples_split": 20,
+        "min_samples_leaf": 8,
+        "max_features": null,
+        "max_depth": 10
+    },
+    "feature_names": [
+        "lag_1",
+        "lag_2",
+        "lag_3",
+        "lag_4",
+        "lag_5",
+        "lag_6",
+        "lag_7",
+        "lag_8",
+        "lag_9",
+        "lag_10",
+        "lag_11",
+        "lag_12",
+        "lag_13",
+        "lag_14"
+    ]
+}

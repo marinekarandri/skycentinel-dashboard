@@ -1,0 +1,30 @@
+{
+    "station_name": "Jagakarsa",
+    "n_lags": 14,
+    "mae": 11.918620473609861,
+    "rmse": 15.314806563501563,
+    "mape": 19.213062458126448,
+    "best_params": {
+        "n_estimators": 200,
+        "min_samples_split": 5,
+        "min_samples_leaf": 4,
+        "max_features": null,
+        "max_depth": null
+    },
+    "feature_names": [
+        "lag_1",
+        "lag_2",
+        "lag_3",
+        "lag_4",
+        "lag_5",
+        "lag_6",
+        "lag_7",
+        "lag_8",
+        "lag_9",
+        "lag_10",
+        "lag_11",
+        "lag_12",
+        "lag_13",
+        "lag_14"
+    ]
+}
